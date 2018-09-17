@@ -18,7 +18,7 @@ public class BeerSong {
 
             if (beerNum == 0) {
                 System.out.println("No more bottles of beer on the wall");
-            } 
+            }
         } //end while loop
      }//end main method
 }//end class
