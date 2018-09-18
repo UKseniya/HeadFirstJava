@@ -5,7 +5,7 @@ public class FizzBuzz {
 
         int x = 1;
 
-        while (x < 100) {
+        while (x < 101) {
 
             if (x%15 == 0) {
                 System.out.println("FizzBuzz");
