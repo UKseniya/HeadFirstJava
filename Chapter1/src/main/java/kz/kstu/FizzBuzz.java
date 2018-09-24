@@ -1,4 +1,4 @@
-package kz.kstu.hf.chapter1;
+package kz.kstu;
 
 public class FizzBuzz {
     public static void main (String [] args){

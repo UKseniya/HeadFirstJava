@@ -1,4 +1,4 @@
-package kz.kstu.hf.chapter1;
+package hf.chapter2;
 
 public class Echo {
 

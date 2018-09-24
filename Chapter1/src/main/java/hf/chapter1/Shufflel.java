@@ -1,4 +1,4 @@
-package kz.kstu.hf.chapter1;
+package hf.chapter1;
 
 public class Shufflel {
     public static void main (String [] args) {
