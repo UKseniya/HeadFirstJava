@@ -1,4 +1,4 @@
-package hf.Chapter3;
+package hf.chapter3;
 
 public class Triangle {
     double area;
